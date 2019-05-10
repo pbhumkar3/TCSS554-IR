@@ -1,1 +1,8 @@
+This assignment demonstrate the page rank algorithm.
+To run this assignment, 
+download graph.txt and Assignment2.java file and save it in the same folder.
+open CMD terminal and go to the folder where the both files are saved.
+type following command to run the code.
+javac Assignment2.java | java Assignment2
 
+Results for the Assignment2 are documented in IR_Assignment 2.pdf enclosed in the same folder.
